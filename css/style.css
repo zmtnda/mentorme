@@ -12,3 +12,7 @@
 .icon-block .material-icons {
 	font-size: inherit;
 }
+.main_logo {
+    max-width: 100%;
+    height: auto;
+}
