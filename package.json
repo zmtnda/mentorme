@@ -1,0 +1,25 @@
+{
+  "name": "MentorMe",
+  "version": "1.0.0",
+  "description": "Mentor me",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zmtnda/mentorme.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Zin Mar Tun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zmtnda/mentorme/issues"
+  },
+  "homepage": "https://github.com/zmtnda/mentorme#readme",
+  "devDependencies": {
+    "electron-prebuilt": "^1.4.2"
+  }
+}
