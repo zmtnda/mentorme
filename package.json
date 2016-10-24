@@ -1,29 +1,29 @@
 {
-  "name": "mentorme",
+  "name": "startbootstrap-sb-admin",
   "version": "1.0.0",
-  "description": "MentorMe",
+  "description": "MentorMe application for CPE 307",
   "main": "index.js",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "jquery": "^3.1.1"
+  },
+  "devDependencies": {
+    "electron": "^1.4.4"
+  },
   "scripts": {
     "start": "electron ."
   },
+ "keywords": [
+    "npm"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/zmtnda/mentorme.git"
   },
-  "keywords": [
-    "npm"
-  ],
-  "author": "Zin Mar Tun, Sara Bilich, Khoa Nguyen, Aaron Otis, Michael Cailotto, Andrew Kennedy",
+  "author": "Sara Bilich, Zin Tun, Khoa Nguyen, Aaron Otis, Michael Cailotto",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/zmtnda/mentorme/issues"
   },
-  "homepage": "https://github.com/zmtnda/mentorme#readme",
-  "devDependencies": {
-    "electron-prebuilt": "^1.4.2"
-  },
-  "dependencies": {
-    "bootstrap": "^3.3.7",
-    "jquery": "^3.1.1"
-  }
+  "homepage": "https://github.com/zmtnda/mentorme#readme"
 }
