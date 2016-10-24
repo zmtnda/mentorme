@@ -6,7 +6,7 @@ To get up and running, you will want to do these 3 things:
 
 ```
 npm install
-npm install -g angular-cli electron
+npm install -g angular-cli electron typescript tslint
 ```
 
 ## Code scaffolding
